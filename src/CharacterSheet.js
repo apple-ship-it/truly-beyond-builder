@@ -96,7 +96,7 @@ function buildCharacterSheet(selectedClasses) {
     // Spell Chunks
     const sc = data.spell_chunks || [];
     const unlockedSpellChunks = getSpellChunksForLevel(sc, level);
-    const isAll = (unlockedSpellChunks.length === sc.length && sc.length > 0) || (sc.length === 0);
+    const isAll = (unlockedSpellChunks.length === sc.length && sc.length > 0) || (sc.length === 1 && sc[0].toLowerCase() === "all") || (sc.length === 0) ;
     spellsByClass.push({
       classTitle,
       isAll,
