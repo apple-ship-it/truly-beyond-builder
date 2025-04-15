@@ -1,0 +1,1032 @@
+
+{
+  "TORNADO DRILL CLASS": {
+    "name": "TORNADO DRILL CLASS",
+    "weapons": [
+      "Vacuum Gauntlets [5 Feet Range, 2 d20 Blunt + 2 Turn Grapple and 500 feet Throwing Range + 2 Turn Ultra Knockback]",
+      "Gale White Bow [1-4 Mile Range, 30-40 Piercing + 3 Turn Ultra Knockback]",
+      "Wind Blade Fan [15 Feet Melee, 100 Feet Air Slash, 35 Slashing + 3 Turn Uzuhiko]"
+    ],
+    "tools": [
+      "Air Nomad Attire",
+      "Phone Orb",
+      "Typical Air Fan",
+      "Air Freshener",
+      "Gonin Outfit",
+      "Pair of Air Jordans",
+      "500 Feet Grappling Foot",
+      "Staff",
+      "Gas Mask",
+      "5 Oxygen Tanks",
+      "Fire Extinguisher",
+      "All of the Avatar Manga"
+    ],
+    "resistances_immunities": [
+      "Fire",
+      "Shock",
+      "Earth Spells",
+      "Water/Living Furnace",
+      "Liquid Bender",
+      "Knockback",
+      "Poison Plight",
+      "Cardinal. Weak to Ultra Elementalist",
+      "and Ice"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "13-16th",
+      "19-21st",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Tornado Aura",
+        "Fight Style",
+        "Wind Release"
+      ],
+      "10-12": [
+        "Air Manipulation",
+        "Level 2 Tornado"
+      ],
+      "17-18th": [
+        "Magnetism Gust",
+        "Level 3 Tornado"
+      ],
+      "22-25th": [
+        "True Battle Master",
+        "Calamity Tornado"
+      ],
+      "30": [
+        "Air Gun Slinger",
+        "Air Echo Knight"
+      ]
+    }
+  },
+  "LA MISTRESS CLASS": {
+    "name": "LA MISTRESS CLASS",
+    "weapons": [
+      "Bladed Fan(5 feet range, 4 d12 bleeding + 3 turn simp/Kissed + 3 turn Int Hex)",
+      "Succubus bow and arrow(500 feet, 30 piercing + 2 d20 bleeding + 3 turn simp)",
+      "Hair Bow mage staff[3 wizard cantrips, 500 feet, 30 fire damage]",
+      "High Heels Pistols[opportunity of attack, 4 d10]"
+    ],
+    "tools": [
+      "Make Up Kit",
+      "Get Out of Jail Free Card",
+      "Outfit Changing Orb",
+      "Phone orb",
+      "Love Potion(2)",
+      "Unlimited Coin Block Card",
+      "Mints/Gum",
+      "Deck of Cards",
+      "Lip Gloss",
+      "Lipstick",
+      "Condoms(12)",
+      "Deodorant",
+      "Advil/Tums",
+      "Intimate Cleansing Wipes",
+      "Blanket"
+    ],
+    "resistances_immunities": [
+      "Immune to Charm",
+      "Resistance to cupid class and corruption magic and Int Hexes",
+      "Weakness is being a horndog"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "13-16th",
+      "20-23rd",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Kiss",
+        "Flirt",
+        "Make Out",
+        "Blow Job"
+      ],
+      "10-12": [
+        "Unthinkable",
+        "Cupids C#ndom"
+      ],
+      "17-19th": [
+        "Kink Motivation",
+        "Strip Me Harder"
+      ],
+      "30": [
+        "Sexual Euphoria",
+        "Dress Up Darling"
+      ]
+    }
+  },
+  "PORTAL MASTER CLASS": {
+    "name": "PORTAL MASTER CLASS",
+    "weapons": [
+      "Blessed Strike Gauntlets[5 Feet, 35-45 Blunt + 1 Max Divine Smite + 2 turn Swap Force]",
+      "The Cleric Blood Axe[ 15 feet, Finesse of 300, 30 Slashing + 1 Max Divine Smite + 2 turn Quick Toy]",
+      "Divine Aura Hammer [Finesse of 1 mile, Melee of 5 feet, 30 Radiant + 20 Shock + 3 turn Imaginator]"
+    ],
+    "tools": [
+      "All Skylanders Figurines",
+      "All Disney Infinity Figurines",
+      "Phone Orb",
+      "Thermas",
+      "Tea Packets[5]",
+      "Back Pack",
+      "Picnic Table",
+      "Portable Tv",
+      "Multiversal Map",
+      "Gps Orb",
+      "Portal Master Attire",
+      "Magic Toy Portal Hub"
+    ],
+    "resistances_immunities": [
+      "Shock",
+      "Radiant",
+      "Wind",
+      "Poison/ Demonic Medic",
+      "Time",
+      "Radiant",
+      "Necrotic",
+      "Weak to Int Hex",
+      "Charisma Hex",
+      "Chuunibyou Gamer",
+      "Items"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "13-16th",
+      "19-22nd",
+      "27-30th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Toybox",
+        "Divinity Host",
+        "Figurine Intervention"
+      ],
+      "10-12": [
+        "Giant Portal Master",
+        "Trap Team Portal Master"
+      ],
+      "17-18th": [
+        "Super Charged Portal Master",
+        "Rift Master"
+      ],
+      "23-26th": [
+        "True Pals Portal Master",
+        "I Summon Forth"
+      ]
+    }
+  },
+  "LIVING VAPORWAVE CLASS": {
+    "name": "LIVING VAPORWAVE CLASS",
+    "weapons": [
+      "Lighter & Magic Bong(200 Feet Grapple, 2 d20 Fire + 15 Wind Damage, 2 Turn High)",
+      "Synthwave Rifle (1 Mile Range, 40 Sound Damage + 2 turn Int Hex , 1 turn Alit)",
+      "Weed Battle Axe (9 feet range, 100 finesse range, 40-50 bleed + 2 turn High, if on fire or fire buffs, deals a 4 turn Nicotine)"
+    ],
+    "tools": [
+      "Lighter",
+      "Warlock Themed Bong",
+      "90's Shades",
+      "Vaporwave Themed Outfit",
+      "Pack of Cigarettes",
+      "Phone Orb",
+      "Pillow",
+      "Water Bottle",
+      "Nimbus Cloud Slippers",
+      "Safety Pistol",
+      "5 Antidote Potions",
+      "Rainbow Wedding Ring",
+      "Space Pilot Outfit"
+    ],
+    "resistances_immunities": [
+      "Resistant to Explosion and Water Magic",
+      "Immune to Wind/Gas/ and Drug themed spells and effects"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "13-16th",
+      "20-24th",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Gift Of The Patron CBD Gummies",
+        "Hookah Tobacco Grasp",
+        "Player Cigarette",
+        "Blinding Mist",
+        "Patron Aid"
+      ],
+      "17-19th": [
+        "Vapor Light Gift",
+        "Synth Beat Step"
+      ],
+      "25": [
+        "CBD Gummy Wish",
+        "Voodoo Vibe",
+        "Beguiling Defenses"
+      ],
+      "30": [
+        "Origin of Illusion Mist",
+        "Dimensional Bong",
+        "Valium Nimbus Cloud"
+      ]
+    }
+  },
+
+  "LIQUID BENDER CLASS": {
+    "name": "LIQUID BENDER CLASS",
+    "weapons": [
+      "Slime club [7 feet rage, 4 d12 poison + 100 feet knockback + 3 turn Slick]",
+      "Water Blade [5 feet, 55 water damage + 3 turn Drowning]",
+      "Poison Grappling Hook [3 d10 poison + 20 poison, 5 feet range, finesse of 1 mile with 1 smite]",
+      "Seastone Cutlass [8 feet range, 2 d20 bleed + 2 turn Plunder + 2 turn Blockage, requires haki to use]"
+    ],
+    "tools": [
+      "Sea Elixirs",
+      "Air Bubbles",
+      "Phone Orb",
+      "Mermaid Friendship Ring",
+      "Potion Bag",
+      "Soap",
+      "Sailing License",
+      "Krusty Krab VIP member(healing help, 1 time use)",
+      "Bag of Sea Stone Pebbles",
+      "Coral Chunk",
+      "Oxygen Tank(5)",
+      "Bubble Soap",
+      "Jellyfish Net",
+      "Kelp Seeds"
+    ],
+    "resistances_immunities": [
+      "Resistance to fire and wind damage",
+      "Immune to Poison Plight Class",
+      "Perilous Pirate",
+      "Acid",
+      "Water",
+      "Poison",
+      "Weak to Ice and Living Furnace Class"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "6-9th",
+      "13-17th",
+      "20-24th",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Unbridled Ego",
+        "Vigor Walking"
+      ],
+      "10-12th": [
+        "Inkling DNA",
+        "Splash Spells"
+      ],
+      "17-19th": [
+        "Paint/Thinner",
+        "Bit of Blot",
+        "Guardians"
+      ],
+      "25": [
+        "Water Armor",
+        "Liquid Stretch"
+      ],
+      "30": [
+        "Water Works",
+        "Bottle Mentality"
+      ]
+    }
+  },
+  "POISON PLIGHT CLASS": {
+    "name": "POISON PLIGHT CLASS",
+    "weapons": [
+      "Bacteria Rocket Hammer (20 feet range, deals 3 d20 blunt + 2 turn Bacteria and deals self knockback of 100 feet)",
+      "Poison Gas Grenade Launcher(1 mile range, 20 feet by 20 feet explosion of 40 poison damage and 1 d20 explosion)",
+      "Massive Bacteria Pick-Axe(40 feet, 50 poison damage + 6 turn bacterialize)"
+    ],
+    "tools": [
+      "5 Superior Poison Potions",
+      "Mushroom Guide of Nature",
+      "Sun Glasses",
+      "Headset",
+      "Crossover Guide",
+      "Shield",
+      "Rocket Jump shoes (1000 feet)",
+      "Taunt Dance Guide",
+      "A Mp3 Player",
+      "A Microphone",
+      "A Pc",
+      "A Phone Orb",
+      "A Mouse",
+      "A Portable Battery",
+      "A Hotspot",
+      "Outfit themed around your personality",
+      "Box of Granola Bars",
+      "5 Gas Mask"
+    ],
+    "resistances_immunities": [
+      "Resistant to Water Damage",
+      "Immune to Poison Damage",
+      "Weak to Massive amount of Foes/a.o.e/ and Ice"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "4-6th",
+      "13-15th",
+      "19-21st",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Poison Walls",
+        "Poison of Aura",
+        "Wall/ Wall Surge"
+      ],
+      "10-12th": [
+        "Poison Planting",
+        "Neurotoxin Rage"
+      ],
+      "22-25th": [
+        "Claviceps Purpure",
+        "Muscarine Grapple"
+      ],
+      "30": [
+        "Poison Master"
+      ]
+    }
+  },
+  "PROTAGONIST ENERGY CLASS": {
+    "name": "PROTAGONIST ENERGY CLASS",
+    "weapons": [
+      "Baseball Bat(15 feet, 40 blunt damage + 2 turn versus. If swinging a baseball..1 mile range, 40 piercing + 2 turn bullshit)",
+      "Buster Sword (20 feet, takes 2 actions to swing, deals 80 bleeding damage)",
+      "Pump Shotgun(30 feet cone, 1 turn full use, 100 piercing damage)"
+    ],
+    "spell_chunks": [
+      
+    ],
+    "tools": [
+      "Phone Orb",
+      "Casual Pair of Clothes",
+      "Running Shoes",
+      "Sweat Bands",
+      "Hammer Cleaner",
+      "Navigational Gear",
+      "5 Superior Health Potions",
+      "Mask",
+      "Cape",
+      "Weapon Cleaner",
+      "Rag",
+      "Grappling Hook (1000 feet)",
+      "Gps",
+      "Compass",
+      "Sea Prism Stones",
+      "10 Pokeballs",
+      "Water Bottle",
+      "Gas Mask",
+      "Lighter",
+      "Shield",
+      "Spell Book"
+    ],
+    "resistances_immunities": [
+      "A.O.E",
+      "Blunt",
+      "Bludgeoning",
+      "Force",
+      "Slashing/Shock",
+      "Fire",
+      "True Commander",
+      "Poison Plight",
+      "Perilous Pirate"
+    ],
+    "casual_abilities": {
+      "1": [
+        "Pixel Power",
+        "Cockroach",
+        "Platforming"
+      ]
+    }
+  },
+  "SWORD STYLING CLASS": {
+    "name": "SWORD STYLING CLASS",
+    "weapons": [
+      "Nodachi Sword Keyblade [20 feet range, 5 d10 slashing + 1 Max Green Flame blade, 3 turn Smite Magnet]",
+      "The Gunblade Keyblade [1 mile range shot, 15 feet melee, melee is 40-60 Bleed/Slashing damage, ranged shot is 3 d20 piercing + 3 Turn Sword Burst]",
+      "Makhaira Keyblade [7 feet range, 40 Bleed/Radiant + 1 Max divine smite + 3 Turn Custom Status Effect]"
+    ],
+    "tools": [
+      "Anvil",
+      "Oxygen Tanks(3)",
+      "Retractable Blades",
+      "Ammo",
+      "Tinker's Tools",
+      "Explorer’s Pack",
+      "Sword Cleaner and Rag",
+      "Lighter and Cigarettes",
+      "Phone Orb",
+      "Samurai Outfit",
+      "Ninja Outfit",
+      "3 Sword Seethes",
+      "Shades",
+      "Sake Bottle",
+      "Sake Cup",
+      "Snack Bag"
+    ],
+    "resistances_immunities": [
+      "Slashing",
+      "Blunt",
+      "Bleed",
+      "Reaction Damage",
+      "Fighter Attacks",
+      "Extra Attack Damage/Necrotic",
+      "Warlock Spells",
+      "Traditional Monk Attacks",
+      "Weak to haki and buffed sword attacks"
+    ],
+    "spell_chunks": [
+      "1-3rd",
+      "4-9th",
+      "13-16th",
+      "20-24th",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "To Be The Very Very Best",
+        "Spin and Burst"
+      ],
+      "10-12th": [
+        "Sword Space",
+        "Battle Brain"
+      ],
+      "17-19th": [
+        "Sword Energy",
+        "Land Of Swords"
+      ],
+      "30": [
+        "You Sword",
+        "Open Your Heart"
+      ]
+    }
+  },
+  "NATURAL BRUTALITY CLASS": {
+    "name": "NATURAL BRUTALITY CLASS",
+    "weapons": [
+      "Poison Hemlock Battle Axe (7 feet/finesse of 300 feet, 25 bleed damage + 2 d20 poison damage + 2 turn Rash)",
+      "Cacti Grenade Launcher (1 mile range of a 10 by 10 feet explosion of 40 bleed damage, splash of 30 feet of 20 bleed damage + 2 turn castigation)",
+      "Blood Rose Petal Gauntlets (5 feet range, 1 ' 2 punch of 30 Blunt damage + 2 d8 bleed + 4 turn Caffeine)"
+    ],
+    "tools": [
+      "Alchemist’s Supplies",
+      "Explorer's Backpack",
+      "Secateurs",
+      "Trowels",
+      "Plant Guide Book",
+      "Leaf Clothing",
+      "Sunglasses",
+      "Portable Water Jug",
+      "Bee Outfit",
+      "Bug Spray",
+      "First Aid Kit(4, 2 d20 Hp per)",
+      "Hiking Boots",
+      "Camping Tent",
+      "Lighter Fluid",
+      "Marshmallow Bag",
+      "Graham Crackers",
+      "Smores",
+      "Base Camping Tools",
+      "Nectar Pouch",
+      "Guide to Wildlife of Eden",
+      "Poke Berries",
+      "Jar of Weed"
+    ],
+    "resistances_immunities": [
+      "Immune to Poison and Bleed",
+      "Resistance to water and lightning/radiant",
+      "Weak to Fire and Freshly Served"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "10-12th",
+      "13-16th",
+      "20-24th",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Seeds Of HemoCraft",
+        "Wood Release",
+        "Plant Empathy",
+        "Garden Warfare",
+        "Eco-Terrorism"
+      ],
+      "10-12th": [
+        "Plant Aether",
+        "Rose Revival",
+        "Garden Warfare V2"
+      ],
+      "17-19th": [
+        "Mutaplant Craft",
+        "Strange Metabolism",
+        "Grass Sword"
+      ],
+      "25": [
+        "New Rooted Status Effects",
+        "The Leaf Ability",
+        "Garden Warfare V3"
+      ],
+      "30": [
+        "Forest Domain"
+      ]
+    }
+  },
+
+  "HYRULE WARRIOR CLASS": {
+    "name": "HYRULE WARRIOR CLASS",
+    "weapons": [
+      "Standard Hyrulean Blade[7 Feet, 40-50 Slashing/ Radiant Damage + 3 Turn Hook Beetle]",
+      "Gatling Gun Arm [400 Feet Line, 40-50 Piercing/Shock + 3 Turn CHA Hex + 3 Turn Mako Drain]",
+      "Hyrulean Bow & and Arrow[1 Mile, 45 Piercing/ Radiant + 3 Turn Bomb]",
+      "Leather Glove [5 Feet, 1'2 Punch of 50 Blunt/Force, 2 Materia Slots]"
+    ],
+    "tools": [
+      "Phone Orb",
+      "Map",
+      "Power Bracelet",
+      "50 Foot Step Ladder",
+      "Flute",
+      "Ocarina",
+      "Raft",
+      "Skeleton Key",
+      "Wooden Shield[+2]",
+      "Candle",
+      "Pendants of Courage/ Wisdom/ Power",
+      "Hyrule History Book",
+      "Gerudo Attire",
+      "Link Themed Outfit",
+      "Bug Catching Net",
+      "Flippers",
+      "Magic Powder"
+    ],
+    "resistances_immunities": [
+      "Shock",
+      "Fire",
+      "Ice",
+      "Inverted Healing",
+      "Vamp",
+      "Rogue/ Deception",
+      "Summons & Mini Allies like Pokemon",
+      "Health Drain",
+      "Water"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "10-12th",
+      "13-16th",
+      "20-23rd",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Materia Maker",
+        "A True Knight",
+        "Mako Vision"
+      ],
+      "10-12th": [
+        "Sheikah Slate",
+        "Materia Upgrade",
+        "New Gear V1"
+      ],
+      "17-19th": [
+        "Zonai Arm",
+        "4 Mask",
+        "New Gear V2"
+      ],
+      "24-25": [
+        "Abitures of Fate",
+        "Daruk's Protection",
+        "New Gear V3"
+      ],
+      "30": [
+        "Choose your Path"
+      ]
+    }
+  },
+  "FRESHLY SERVED CLASS": {
+    "name": "FRESHLY SERVED CLASS",
+    "armor": "light, medium",
+    "weapons": [
+      "Hellfire Frying Pan [5 feet, 4 D10 Blunt/Fire + 1 d20 Necrotic, 3 Turn Buffet]",
+      "Spaghetti Bow [1 mile, 50 Force/Lava + 1 d20 poison, 3 Turn Well Done",
+      "Brick Oven Sledgehammer [10 feet, 70 Bludgeoning/Force + 2 d20 Fire, 3 Turn Crispy]"
+    ],
+    "tools": [
+      "Phone orb",
+      "Ultimate tool kit",
+      "Spice rack",
+      "Spam Meat",
+      "Bag of veggies",
+      "Bag of Fruit",
+      "Sauce rack",
+      "Salt and pepper",
+      "All Food Prep Tools",
+      "All Specialty Cooking Goods",
+      "Portable Pantry",
+      "Butcher Knife Set",
+      "Store Bought Ingredients",
+      "Thermometers"
+    ],
+    "resistances_immunities": [
+      "Fire Immunity",
+      "Poison Resistance",
+      "Wisdom Advantage",
+      "Weak against poison plight and charms/lust magic"
+    ],
+    "spell_chunks": [
+      "All"
+    ],
+    "casual_abilities": {
+      "1": [
+        "Anime Chef",
+        "A True Chef"
+      ],
+      "1-4": [
+        "MAGNETIC MAYHEM CLASS"
+      ]
+    }
+  },
+  "MAGNETIC MAYHEM CLASS": {
+    "name": "MAGNETIC MAYHEM CLASS",
+    "weapons": [
+      "Magnetic Sledgehammer [10 Feet range, 40 Blunt/Bludgeoning & 1 d20 Shock + 100 knockback + 3 Turn Diamagnetic",
+      "Finesse of 500 feet",
+      "Modded Coil Gun [200 Feet, 40 Piercing/Shock + 1 d20 Psychic + 3 Turn Paramagnetic]",
+      "Mini Rail Gun [900 feet line , 50-60 Piercing/Bleed + 1 D4 Ac Drop for 1 Turn]",
+      "Portable Cartoon Magnet [2 Mile Grapple, Per Strength Saving Throw, Yank your Target of your size of Lower 3 D100 Feet a Yank, Deal 30 Shock/Psychic Per Yank]"
+    ],
+    "tools": [
+      "Phone Orb",
+      "Copper Wire Bag",
+      "Regular Bire Bag",
+      "Tool Kit",
+      "6 Metal Rods",
+      "Magnetism Guide",
+      "Cartoon Magnet",
+      "Radiation Scanner",
+      "Electricity Tracker",
+      "Portable Battery Bag",
+      "Sleeping Bag",
+      "Reinforced Shades",
+      "Bullet Proof Vest",
+      "3 First Aid Spray(100 hp per)",
+      "Copper Bracelets/gloves"
+    ],
+    "resistances_immunities": [
+      "Resistance to Psychic",
+      "Shock",
+      "Gravity",
+      "Fire/Shock",
+      "Blunt",
+      "Forces",
+      "Master Jedi",
+      "Mech Madness"
+    ],
+    "spell_chunks": [
+      "All"
+    ],
+    "casual_abilities": {
+      "1": [
+        "Antiferromagnetic",
+        "Ferromagnetic",
+        "MAGNET A",
+        "MAGNET F",
+        "MAGNET I"
+      ]
+    }
+  },
+  "MEME PHYSICS CLASS": {
+    "name": "MEME PHYSICS CLASS",
+    "weapons": [
+      "No Scope Rifle [10 Mile, Shot of 40-50 Piercing/Acid Damage + 3 Turn Triggered, Removes 3 Turns of Sound Immunity]",
+      "Weegee Stare Shades [400 Feet A.O.E of Friendly Fire, Deals 30-40 Plasma/Psychic + 3 Turn Weegee Virus]",
+      "Pudding Pop Club [5 Feet Range, 40-50 Blunt/Bludgeoning Damage + 3 Turn For Rupees]"
+    ],
+    "tools": [
+      "Phone Orb",
+      "Dinner Blaster",
+      "Lamp Oil",
+      "Rope [500 Feet]",
+      "Bombs [3, 50 by 50 Feet, 50 Explosion]",
+      "Pepsi Blue 12 Pack",
+      "Really Old Computer",
+      "Party Sized Infinite Doritos",
+      "Mountain Dew 12 Pack",
+      "Bag of Weed",
+      "Xbox 360",
+      "Unicycle",
+      "Cool Shades",
+      "Noise Proof Headphones",
+      "Bowser Bread"
+    ],
+    "resistances_immunities": [
+      "Fire",
+      "Wind",
+      "Acid",
+      "Chuunibyou Gamer",
+      "Freshly Served/ Disease",
+      "Poison",
+      "Breathing",
+      "Sound",
+      "Charm",
+      "Sharp Gunner",
+      "It's Tricky",
+      "Radiant",
+      "Weak to Gameplay Mechanic",
+      "Big Brain [AKA Illuminati]"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "10-12th",
+      "13-16th",
+      "20-23rd",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "My Boy!",
+        "Smoking it Everyday",
+        "Meme Swap V1",
+        "Meme Shape",
+        "Gmod Physics",
+        "Flipnote"
+      ],
+      "10-12th": [
+        "Here Comes Dat Boi",
+        "I Smoke Everyday, Really",
+        "Meme Swap V2"
+      ],
+      "17-19th": [
+        "Wilkins Coffee",
+        "Panda Cheese",
+        "Meme Swap V3"
+      ],
+      "24-25": [
+        "We do a Little Trolling",
+        "Press F to Pay Respects",
+        "Meme Swap V4"
+      ],
+      "30": [
+        "Like ZOINKS!!",
+        "Wombo Combo",
+        "Meme Swap V"
+      ]
+    }
+  },
+  "RELENTLESS REAPER CLASS": {
+    "name": "RELENTLESS REAPER CLASS",
+    "weapons": [
+      "Hellfire Dual Shotguns [30 Feet Cone, 40 Explosion/Soul Damage + 3 Turn Hell Eye]",
+      "Death Blossom Scythe [A.O.E 300 Feet, 20 Soul Damage, 2 D20 Bleed + 3 Turn Judgement]",
+      "Proton Pack Blast [1 Mile Range, 40 Plasma Damage Line + 3 Turn Angel Cross]"
+    ],
+    "tools": [
+      "Phone orb",
+      "Scythe Cleaner",
+      "Bible",
+      "Portable Coffee Maker and Cups",
+      "Dark Vision Goggle",
+      "A Bathing Suit and Scuba Gear",
+      "Map of Eden",
+      "Navigational Tools",
+      "Multiversal Anatomy Guide",
+      "Body Bags(5)",
+      "Full Skeleton",
+      "Blue Fire Gum",
+      "Skull Mask",
+      "Reaper Cloak",
+      "Obituary Book",
+      "Close to Death Goggles"
+    ],
+    "resistances_immunities": [
+      "Necrotic",
+      "Radiant",
+      "Fire",
+      "Ice",
+      "Shock",
+      "Stealth Attacks/ Ghastly Ghoul",
+      "Held Captive",
+      "Stuns",
+      "Paralyze",
+      "Analog Horror",
+      "Soul"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "13-16th",
+      "19-22nd",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Shadow Step",
+        "Wraith Form",
+        "The Reaping"
+      ],
+      "10-12th": [
+        "Dark Matter Stream",
+        "Slime Blower/Tether",
+        "Composite Particle System"
+      ],
+      "17-18th": [
+        "Upgraded Equipment",
+        "A Few Lives to Kill",
+        "Necromancer"
+      ],
+      "23-25": [
+        "Castlevania Mode",
+        "Netherborn Proton Pack",
+        "Necromancer V2"
+      ],
+      "30": [
+        "IMMORTALITY"
+      ]
+    }
+  },
+  "SHONEN PROTAGONIST CLASS": {
+    "name": "SHONEN PROTAGONIST CLASS",
+    "weapons": [
+      "Umbras Cube gauntlet(6 d12 + 15 bleed + 3 turn Pride)",
+      "Samurai Blade( 3 d20 slashing + 1 smite+ 1 d4 bleed)",
+      "Titanium spiked club (6 d1o blunt + Max level thundersmite)",
+      "Chakra Kunai(1 mile Finesse range, 4 d10 piercing + 3 turn fight me bro)"
+    ],
+    "tools": [
+      "Senzu Beans(3)",
+      "Arm Bands",
+      "Pain Killers",
+      "Medicine",
+      "Hyperbolic Time Chamber",
+      "Sweat bands",
+      "Blank Ninja Headbands",
+      "Explorer’s Pack",
+      "World Tournament Training outfit",
+      "Bounty collection book",
+      "A random yugioh deck"
+    ],
+    "resistances_immunities": [
+      "Resistance to Blunt damage and explosion damage",
+      "Immune to Intimidation",
+      "Weak to Hunger and fight bait"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "12-15th",
+      "16-18th",
+      "19-21st",
+      "26-29th"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "Not Yet Protag-kun",
+        "Now I'm Serious",
+        "Cube charge"
+      ],
+      "10-11th": [
+        "Saiyan Blood Pack",
+        "Tail",
+        "Ki"
+      ],
+      "16-18th": [
+        "Nen"
+      ],
+      "22-25": [
+        "Armament Haki Quirk",
+        "Cursed Energy Manipulation"
+      ]
+    }
+  },
+  "ATOMIC WRESTLING CLASS": {
+    "name": "ATOMIC WRESTLING CLASS",
+    "weapons": [
+      "Wrestling Punch (5 Feet Range, 30 Blunt damage + 1 d20 Radiant and 3 turn radiation)",
+      "Wrestling Kick(7 Feet Range, 50 Blunt Damage + 4 Turn Atomic)",
+      "Chair (Finesse Weapon, 1 mile, 45 blunt damage + 3 turn Highly Explosive)"
+    ],
+    "tools": [
+      "Headgear",
+      "Wrestling Shoes",
+      "Singlet",
+      "Phone orb",
+      "Gatorade",
+      "water bottle",
+      "Wrestling Attire",
+      "Every WWE game",
+      "WWE membership",
+      "UFC Boxing Gloves",
+      "White Socks",
+      "Mouth Brace",
+      "Ice Pack for the Eyes",
+      "Medical Kit",
+      "Sunglasses",
+      "Lead Gloves",
+      "Safety Goggles",
+      "Lead Apron",
+      "Lead Pills"
+    ],
+    "resistances_immunities": [
+      "Resistance to Blunt",
+      "Immune to Fire",
+      "Shock and Explosion Damage"
+    ],
+    "spell_chunks": [
+      "All"
+    ],
+    "casual_abilities": {
+      "1": [
+        "Championship Belt",
+        "Fucking Toxic",
+        "Wrestling Heel"
+      ]
+    }
+  },
+  "LIVING FURNACE CLASS": {
+    "name": "LIVING FURNACE CLASS",
+    "weapons": [
+      "Big Smoking Hook [Finesse of 1 mile, 50 Bleed/Fire damage + 1 d20 Fire + 3 Turn Burn]",
+      "Spatula Blade(10 feet Range , 40-60 Slashing/Fire + 3 turn Degree Burn]",
+      "Hellish Hand Canon [700 feet Range, 50 Necrotic/Force + 1 d20 fire, 3 Turn Degree Burn]"
+    ],
+    "tools": [
+      "Sleeping Dust",
+      "Many Cooking Sauces",
+      "Meat Thermometer",
+      "Grill Thermometer",
+      "Griddle Cleaning Kit",
+      "Charcoal Rake",
+      "Tongs",
+      "Tinfoil",
+      "Many Seasonings",
+      "Phone Orb",
+      "Alcohol",
+      "Full Grill Set",
+      "Chef Apron",
+      "Chef Hat",
+      "A Lock",
+      "Heat Signature Glasses(100 feet)",
+      "Lighter Fluid",
+      "Propane Gas Tank"
+    ],
+    "resistances_immunities": [
+      "Resistant to Ice",
+      "Water",
+      "Immune to Liquid Bender Class and Fire of Any Kind"
+    ],
+    "spell_chunks": [
+      "1-4th",
+      "5-9th",
+      "10-12th",
+      "13-16th",
+      "21-23st",
+      "28-29"
+    ],
+    "casual_abilities": {
+      "1-4": [
+        "No Refrigeration",
+        "Burning Hot",
+        "Chain",
+        "Heatwave/Blizzard"
+      ],
+      "10-12th": [
+        "A Front Of Ice Flame",
+        "Crimson Ember"
+      ],
+      "17-20th": [
+        "Flames of Disaster",
+        "Ashes to Ashes"
+      ],
+      "24-27": [
+        "Hell Chain Mode"
+      ],
+      "30": [
+        "Cinder Fist",
+        "Fire Body"
+      ]
+    }
+  }
+}
+
+
+
+

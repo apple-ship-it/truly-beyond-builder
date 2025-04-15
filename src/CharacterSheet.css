@@ -1,0 +1,95 @@
+.app-container {
+  display: flex;
+  gap: 24px;
+  margin: 0 auto;
+  max-width: 1200px;
+  font-family: Arial, sans-serif;
+  padding: 16px;
+  background-color: #f5f5f5; /* Light background for the entire page */
+}
+
+.form-column,
+.output-column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff; /* White background for each "card" */
+  border-radius: 8px;
+  padding: 16px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.form-column h1,
+.form-column h3,
+.output-column h2 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-weight: bold;
+  border-bottom: 2px solid #444;
+  padding-bottom: 8px;
+}
+
+/* Better spacing for field groups */
+.field-group {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+/* Label styling */
+.field-group label {
+  width: 100px;
+  font-weight: bold;
+  margin-right: 8px;
+  flex-shrink: 0;
+}
+
+/* Inputs, selects, textareas */
+.field-group input,
+.field-group select,
+.field-group textarea {
+  flex: 1;
+  padding: 8px 10px;
+  font-size: 14px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Classes list */
+.selected-classes-list {
+  margin: 0.5rem 0;
+  padding-left: 16px;
+  list-style-type: disc;
+}
+
+/* Buttons */
+.field-group button {
+  margin-left: 8px;
+  padding: 8px 12px;
+  cursor: pointer;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+/* Hover effect for buttons */
+.field-group button:hover {
+  background-color: #0056b3;
+}
+
+/* Output styling */
+.character-sheet-output {
+  margin-top: 8px;
+  flex: 1;
+  resize: vertical;
+  background-color: #fafafa;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 8px;
+  font-family: "Courier New", Courier, monospace;
+  white-space: pre-wrap;
+  line-height: 1.4;
+}
