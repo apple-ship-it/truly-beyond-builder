@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/truly-beyond-builder/static/css/main.03945ab3.css",
-    "main.js": "/truly-beyond-builder/static/js/main.cf163c72.js",
+    "main.js": "/truly-beyond-builder/static/js/main.cdd25040.js",
     "static/js/453.48ba884d.chunk.js": "/truly-beyond-builder/static/js/453.48ba884d.chunk.js",
     "index.html": "/truly-beyond-builder/index.html",
     "main.03945ab3.css.map": "/truly-beyond-builder/static/css/main.03945ab3.css.map",
-    "main.cf163c72.js.map": "/truly-beyond-builder/static/js/main.cf163c72.js.map",
+    "main.cdd25040.js.map": "/truly-beyond-builder/static/js/main.cdd25040.js.map",
     "453.48ba884d.chunk.js.map": "/truly-beyond-builder/static/js/453.48ba884d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03945ab3.css",
-    "static/js/main.cf163c72.js"
+    "static/js/main.cdd25040.js"
   ]
 }
